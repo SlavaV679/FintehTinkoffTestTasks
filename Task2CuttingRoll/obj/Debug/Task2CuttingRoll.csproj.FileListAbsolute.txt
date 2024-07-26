@@ -1,0 +1,8 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\bin\Debug\Task2CuttingRoll.exe.config
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\bin\Debug\Task2CuttingRoll.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\bin\Debug\Task2CuttingRoll.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\obj\Debug\Task2CuttingRoll.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\obj\Debug\Task2CuttingRoll.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\obj\Debug\Task2CuttingRoll.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\obj\Debug\Task2CuttingRoll.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task2CuttingRoll\obj\Debug\Task2CuttingRoll.pdb

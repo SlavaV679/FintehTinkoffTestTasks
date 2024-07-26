@@ -1,0 +1,8 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\bin\Debug\Fibonacii.exe.config
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\bin\Debug\Fibonacii.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\bin\Debug\Fibonacii.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\obj\Debug\Fibonacii.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\obj\Debug\Fibonacii.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\obj\Debug\Fibonacii.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\obj\Debug\Fibonacii.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Fibonacii\obj\Debug\Fibonacii.pdb

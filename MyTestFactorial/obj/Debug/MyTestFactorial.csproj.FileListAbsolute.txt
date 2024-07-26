@@ -1,0 +1,8 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\bin\Debug\MyTestFactorial.exe.config
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\bin\Debug\MyTestFactorial.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\bin\Debug\MyTestFactorial.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\obj\Debug\MyTestFactorial.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\obj\Debug\MyTestFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\obj\Debug\MyTestFactorial.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\obj\Debug\MyTestFactorial.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\MyTestFactorial\obj\Debug\MyTestFactorial.pdb

@@ -1,0 +1,8 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\bin\Debug\Task9PayForLunch.exe.config
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\bin\Debug\Task9PayForLunch.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\bin\Debug\Task9PayForLunch.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\obj\Debug\Task9PayForLunch.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\obj\Debug\Task9PayForLunch.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\obj\Debug\Task9PayForLunch.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\obj\Debug\Task9PayForLunch.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task9PayForLunch\obj\Debug\Task9PayForLunch.pdb

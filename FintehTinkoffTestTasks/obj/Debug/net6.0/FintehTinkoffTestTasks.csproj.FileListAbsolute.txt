@@ -1,0 +1,15 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\bin\Debug\net6.0\FintehTinkoffTestTasks.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\bin\Debug\net6.0\FintehTinkoffTestTasks.deps.json
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\bin\Debug\net6.0\FintehTinkoffTestTasks.runtimeconfig.json
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\bin\Debug\net6.0\FintehTinkoffTestTasks.dll
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\bin\Debug\net6.0\FintehTinkoffTestTasks.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.AssemblyInfoInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.AssemblyInfo.cs
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.dll
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\refint\FintehTinkoffTestTasks.dll
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\FintehTinkoffTestTasks.genruntimeconfig.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\FintehTinkoffTestTasks\obj\Debug\net6.0\ref\FintehTinkoffTestTasks.dll
