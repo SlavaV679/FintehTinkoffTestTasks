@@ -1,0 +1,7 @@
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\obj\Debug\Task12Money.csproj.AssemblyReference.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\obj\Debug\Task12Money.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\bin\Debug\Task12Money.exe.config
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\bin\Debug\Task12Money.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\bin\Debug\Task12Money.pdb
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\obj\Debug\Task12Money.exe
+C:\Projects\Code\Git\telega\PROJECTS\FintehTinkoffTestTasks\Task12Money\obj\Debug\Task12Money.pdb
